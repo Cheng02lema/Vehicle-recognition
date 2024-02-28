@@ -1,0 +1,9 @@
+train: /Users/qishuocheng/Desktop/yolov5/VOCData/dataSet_path/train.txt
+val: /Users/qishuocheng/Desktop/yolov5/VOCData/dataSet_path/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["car"]
+

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>92f191c21dfd349601757aa9ca6bc2e6.jpg</filename>
+	<path>/Users/qishuocheng/Desktop/yolov5/VOCData/images/92f191c21dfd349601757aa9ca6bc2e6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>197</ymin>
+			<xmax>412</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>
